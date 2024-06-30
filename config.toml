@@ -1,0 +1,3 @@
+[server]
+maxUploadSize = 400000
+maxMessageSize = 400000
